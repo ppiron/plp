@@ -44,6 +44,7 @@ html {
   cursor: pointer;
 }
 .link {
+  text-decoration: none;
   padding-bottom: 5px;
 }
 .link:hover {
@@ -116,6 +117,7 @@ html {
 #products {
   max-width: 80vw;
   height: 23vw;
+  max-height: 294px;
   margin: 100px auto;
   text-align: center;
   display: flex;
